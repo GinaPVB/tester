@@ -6,9 +6,9 @@ lo que sea
 ## Titulo 2
 ### Titulo 3
 
--hola
--como
--estas
+- hola
+- como
+- estas
 
 [google colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
